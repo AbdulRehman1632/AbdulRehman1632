@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdulrehman1632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrehman1632" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulrehman1632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-rehman-5617b8283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrehman" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_rehman5556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_rehman5556" height="30" width="40" /></a>
 <a href="https://dribbble.com/abdulrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abdulrehman" height="30" width="40" /></a>
 </p>
