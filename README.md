@@ -71,11 +71,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40"/>
   </a>
 
-  <!-- Ant Design -->
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" alt="ant-design" width="40" height="40"/>
-  </a>
-
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
