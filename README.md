@@ -5,11 +5,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman1632&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman1632" /> </p>
 
-- 🌱 I’m currently learning **Web and Mobile APP Development**
+Hi there! I'm Abdul Rehman, a passionate Frontend Developer with a focus on building responsive, user-friendly web applications using React JS. I’ve successfully completed the Web and Mobile App Development course from Saylani Mass IT Training Program, where I gained hands-on experience in HTML, CSS, JavaScript, React, Firebase, and more.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdul-rehman-5617b8283/](https://www.linkedin.com/in/abdul-rehman-5617b8283/)
+🚀 What I Do
+Craft modern UIs with React JS and reusable components
 
-- 📫 How to reach me **a.rehman1632@gmail.com**
+Integrate APIs and manage state using Redux or Context API
+
+Design mobile-responsive websites using Tailwind CSS & MUI
+
+
+🌱 Currently Exploring
+Real-time applications and role-based dashboards
+
+Deployment and performance optimization
+
+🔗 Let’s Connect
+🌍 LinkedIn: linkedin.com/in/abdul-rehman-5617b8283
+
+📧 Email: a.rehman1632@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
