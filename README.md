@@ -23,6 +23,7 @@ Hi there! I'm Abdul Rehman, a passionate Frontend Developer with a focus on buil
 - Deployment and performance optimization
 
 🔗 Let’s Connect
+
 🌍 LinkedIn: linkedin.com/in/abdul-rehman-5617b8283
 
 📧 Email: a.rehman1632@gmail.com
