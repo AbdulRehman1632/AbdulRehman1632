@@ -24,7 +24,7 @@ Hi there! I'm Abdul Rehman, a passionate Frontend Developer with a focus on buil
 
 🔗 Let’s Connect
 
-🌍 LinkedIn: abdul-rehman-5617b8283
+🌍 LinkedIn: https://www.linkedin.com/in/abdul-rehman-5617b8283/
 
 📧 Email: a.rehman1632@gmail.com
 
