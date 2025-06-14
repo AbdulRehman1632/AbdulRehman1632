@@ -8,17 +8,19 @@
 Hi there! I'm Abdul Rehman, a passionate Frontend Developer with a focus on building responsive, user-friendly web applications using React JS. I’ve successfully completed the Web and Mobile App Development course from Saylani Mass IT Training Program, where I gained hands-on experience in HTML, CSS, JavaScript, React, Firebase, and more.
 
 🚀 What I Do
-Craft modern UIs with React JS and reusable components
 
-Integrate APIs and manage state using Redux or Context API
+- Craft modern UIs with React JS and reusable components
 
-Design mobile-responsive websites using Tailwind CSS & MUI
+- Integrate APIs and manage state using Redux or Context API
+
+- Design mobile-responsive websites using Tailwind CSS & MUI
 
 
 🌱 Currently Exploring
-Real-time applications and role-based dashboards
 
-Deployment and performance optimization
+- Real-time applications and role-based dashboards
+
+- Deployment and performance optimization
 
 🔗 Let’s Connect
 🌍 LinkedIn: linkedin.com/in/abdul-rehman-5617b8283
