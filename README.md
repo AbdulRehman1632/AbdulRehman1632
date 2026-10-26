@@ -7,7 +7,7 @@
 
 Hi there! I'm **Abdul Rehman**, a Full-Stack MERN Developer and AI Automation Engineer dedicated to building scalable web applications, robust backend architectures, and intelligent automated workflows. 
 
-I graduated from the **Saylani Mass IT Training Program** and specialize in creating seamless user experiences combined with powerful server-side systems and AI integrations.
+I have completed the **Web and Mobile App Development course** from **Saylani Mass IT Training Program** and specialize in creating seamless user experiences combined with powerful server-side systems and AI integrations.
 
 ---
 
@@ -94,21 +94,3 @@ I graduated from the **Saylani Mass IT Training Program** and specialize in crea
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman1632&show_icons=true&locale=en&layout=compact" alt="abdulrehman1632" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrehman1632&show_icons=true&locale=en" alt="abdulrehman1632" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman1632&" alt="abdulrehman1632" />
-</p>
