@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul-Rehman</h1>
-<h3 align="center">A passionate MERN-Stack Developer from Pakistan</h3>
+<h3 align="center">Frontend & MERN Stack Developer | AI Automation & Workflows</h3>
 
 
 <p align="center">
